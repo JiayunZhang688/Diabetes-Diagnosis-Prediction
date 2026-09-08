@@ -1,4 +1,4 @@
-# Lab 23 – Group 10: Diabetes Diagnosis Prediction
+# Diabetes Diagnosis Prediction
 
 Predicting whether an individual is diabetic from demographic and lifestyle
 factors (BMI, age, income, general health, smoking status, physical
